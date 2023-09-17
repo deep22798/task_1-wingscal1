@@ -1,6 +1,10 @@
-# task_1-wingscal1
- my first task for an internship
+# task:1 - wingscall
 
-![Screenshot_2023-09-16-03-09-45-84 (2)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/4b8d5930-4d66-41fd-af42-5df10eaf9d8d) ![Screenshot_2023-09-16-03-10-15-48_cd3436561653f6364f9b6980e0dc5965 (1)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/f1b204ab-81b7-42c9-b4e3-85676cd8bb0d) ![Screenshot_2023-09-16-03-10-02-24 (1)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/12e79d4a-e9d9-4e10-a4a6-c90e712ee3af)
+Screenshots:
+
+![Screenshot_2023-09-16-03-09-45-84 (2)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/44595fb7-a3f2-48aa-8046-64a494164a51)
+
+![Screenshot_2023-09-16-03-10-15-48_cd3436561653f6364f9b6980e0dc5965 (1)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/ad937ef3-cfcb-44e0-a8bb-4296a5b8a0da)   ![Screenshot_2023-09-16-03-10-02-24 (1)](https://github.com/deep22798/task_1-wingscal1/assets/76737835/e739c831-b85b-43a8-bd68-4162ac45aa56)
+
 
 
